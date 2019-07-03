@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fashion on 思婆 | 美好的一天从烘焙开始</title>
+    <link>http://localhost:1313/categories/fashion/</link>
+    <description>Recent content in Fashion on 思婆 | 美好的一天从烘焙开始</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/fashion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organize Your Life With 10 Simple rule</title>
+      <link>http://localhost:1313/organize-your-life.2/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://localhost:1313/organize-your-life.2/</guid>
+      <description>早上起来的吃一小块，可以美美的工作一整天，放下包袱，精神愉快。让我们一起享受这美丽的时刻。 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    
+  </channel>
+</rss>
